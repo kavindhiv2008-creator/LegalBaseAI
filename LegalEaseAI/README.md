@@ -1,0 +1,2 @@
+# LegalEaseAI
+Document Generator
